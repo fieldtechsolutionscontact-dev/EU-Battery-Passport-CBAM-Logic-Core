@@ -4,10 +4,11 @@ Core Python calculation logic for EU Battery Passport (DPP) & CBAM compliance. D
 
 ## ⚠️ Notice: Full Architecture Available
 This repository contains **only the basic calculation module**. 
-The complete, self-healing AI workflow (JSON auto-validation, HS-Code extraction, Reflection Loop for Dify 2.0) is available below:
+The complete, self-healing AI workflow (Standalone HTML Blueprint with Regex extraction & Reflection Loop for Dify 2.0) is available below:
 
+* 🌍 **[Global] Full Architecture Blueprint (ZIP):** [👉 Get it on Gumroad]https://fieldtech.gumroad.com/l/eu-cbam-dify-blueprint
+* 🇯🇵 **[Japan Only] Dify環境への完全構築・実装代行:** [👉 ココナラ窓口はこちら]https://coconala.com/services/4221457 
 
-* 🇯🇵 **[Japan Only] Dify環境への完全構築・実装代行:** [👉 ココナラ窓口はこちら](https://coconala.com/services/4221457)
 
 ---
 
